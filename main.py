@@ -1,4 +1,4 @@
-# features: add GUI
+# features: add GUI, payment methods, etc
 import random
 
 MAX_LINES = 3
